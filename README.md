@@ -1,5 +1,5 @@
 # 💫 About Me:
-     Hi, I'm Aastha Agarwal 👋
+     Hi, I'm Mayank👋
 
 AI & Robotics student with hands-on experience in Machine Learning, NLP, and Generative AI.
 I’ve built real-world projects like AI chatbots, dyslexia detection systems, drug discovery models, and GAN-based fashion applications.
