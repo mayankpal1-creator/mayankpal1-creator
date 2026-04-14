@@ -1,5 +1,12 @@
 # 💫 About Me:
-     Hi, I'm Mayank<br><br>AI & Robotics student with hands-on experience in Machine Learning, NLP, and Generative AI.<br>I’ve built real-world projects like AI chatbots, dyslexia detection systems, drug discovery models, and GAN-based fashion applications.<br><br> Tech Stack: Python | ML | NLP | Django | Robotics<br> Passionate about building scalable, real-world AI solutions<br> Always learning, experimenting, and creating impact through technology
+     Hi, I'm Aastha Agarwal 👋
+
+AI & Robotics student with hands-on experience in Machine Learning, NLP, and Generative AI.
+I’ve built real-world projects like AI chatbots, dyslexia detection systems, drug discovery models, and GAN-based fashion applications.
+
+💻 Tech Stack: Python | ML | NLP | Django | Robotics
+🚀 Passionate about building scalable, real-world AI solutions
+📈 Always learning, experimenting, and creating impact through technology
 
 
 ## 🌐 Socials:
